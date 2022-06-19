@@ -6,4 +6,4 @@ INS State includes position (3d) / velocity (3d) / attitude (3d) / gyro's bias (
 
 We use the AsteRx SBi to collect dataset, which combines GPS/GNSS and an industry-grade IMU (Inertial Measurement Unit) to deliver precise positioning together with 3D attitude (heading, roll, pitch). You can check out this link https://www.directindustry-china.cn/prod/septentrio/product-183002-2282177.html for more info.
 
-![image](https://user-images.githubusercontent.com/100557045/174484676-ad9ecdcd-4abf-4955-8195-6afd26b7ba1e.png)
+![image](https://user-images.githubusercontent.com/100557045/174484720-06c4a0ec-44f7-4b9a-97cd-0ef8e2689a3e.png)
